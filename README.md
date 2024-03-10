@@ -48,4 +48,4 @@
   <!--<img src="https://github-readme-activity-graph.vercel.app/graph?username=BuStudios&radius=16&theme=github-dark&area=true&order=5&hide_border=true&hide_title=false&custom_title=Contribution" height="265" alt="activity-graph graph"  />-->
 </div>
 
-<img src="animation.svg"/>
+<img src="animation.svg" height="163"/>
