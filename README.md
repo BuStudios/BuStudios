@@ -5,7 +5,7 @@
 <h3 align="left">A 15-year-old bug maker 🐛 from Germany :D</h3>
 
 ###
-
+<img scr="https://komarev.com/ghpvc/?username=bustudios&label=profile%20views&color=7887f2&style=flat%22%20alt=%22bustudios"/>
 <p align="left">- 🔭 I'm currently working on my 🌐 website and a very epic Discord bot 🤖<br>- 🌱 I’m learning 💻 web development<br>- 😺 I share games on scratch: play them here<br>- ⚡fun fact: I hold the world record for most visits to my own profile. 🏆</p>
 
 ###
@@ -47,5 +47,6 @@
 </div>
 
 <img src="animation.svg"/>
+
 
 ###
