@@ -2,13 +2,13 @@
 
 ###
 
-<h3 align="left">A 15-year-old bug maker 🐛 from Germany :D</h3>
-
-<div align="left">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=BuStudios.BuStudios&left_text=profile%20views"  />
-</div>
+<h3 align="left">A 15-year-old professional bug creator 🐛 from Germany :D</h3>
 
 <p align="left">- 🔭 I'm currently working on my 🌐 website and a very epic Discord bot 🤖<br>- 🌱 I’m learning 💻 web development<br>- 😺 I share games on scratch: play them here<br>- ⚡fun fact: I hold the world record for most visits to my own profile. 🏆</p>
+
+<div align="left">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=BuStudios.BuStudios&left_text=profile%20views" height="17" />
+</div>
 
 ###
 
@@ -49,10 +49,3 @@
 </div>
 
 <img src="animation.svg"/>
-
-
-###
-
-
-
-###
