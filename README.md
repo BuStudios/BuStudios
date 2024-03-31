@@ -2,7 +2,7 @@
 
 ###
 
-<h3 align="left">A 15-year-old professional bug creator 🐛 from Germany :D</h3>
+<h3 align="left">A 15-year-old bug creator 🐛 from Germany :D</h3>
 
 <p align="left">- 🔭 I'm currently working on my 🌐 website and a very epic Discord bot 🤖<br>- 🌱 At the moment I’m learning 💻 web development<br>- 😺 I share games on scratch: play them here: https://bit.ly/bustudios<br>- ⚡fun fact: I hold the world record for most visits to my own profile. 🏆</p>
 
