@@ -3,8 +3,7 @@
 ###
 
 <h3 align="left">A 15 year old dev from Germany :]</h3>
-
-<p align="left">- 🔭 I'm currently working on my 🔗 website<br>- 🌱 At the moment I’m learning 💻 web development and 🤖 discord bots<br>- 😺 I used to share games on scratch: https://bit.ly/bustudios<br>- ⚡fun fact: I hold the world record for most visits to my own profile. 🏆</p>
+<p align="left">- 🔭 I'm currently working on my 🔗 <a href="https://www.bustudios.org">website</a><br>- 🌱 At the moment I’m learning 💻 web development and 🤖 discord bots<br>- 😺 I used to share games on scratch: https://bit.ly/bustudios<br>- ⚡fun fact: I hold the world record for most visits to my own profile. 🏆</p>
 
 <div align="left">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=BuStudios.BuStudios&left_text=profile%20views" height="17" />
