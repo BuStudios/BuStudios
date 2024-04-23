@@ -3,7 +3,7 @@
 ###
 
 <h3 align="left">A 15 year old dev from Germany :)</h3>
-<p align="left">- 🖥️ I'm currently working on 🛠️ <a href="https://github.com/BuStudios/StashConnect">stashconnect</a> and my 🔗 <a href="https://www.bustudios.org">website</a><br>
+<p align="left">- 🖥️ I'm currently working on 🛠️ <a href="https://github.com/BuStudios/StashConnect">stashconnect</a> and my 🔗 <a href="https://bustudios.org">website</a><br>
 - 🌱 At the moment I’m learning 💻 web development and 🤖 discord bots<br>
 - 😺 I used to share games on scratch: <a href="https://bit.ly/bustudios">bustudios</a><br>
 - ⚡fun fact: I hold the world record for most visits to my own profile. 🏆</p>
