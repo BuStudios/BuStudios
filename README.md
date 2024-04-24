@@ -6,7 +6,7 @@
 <p align="left">- 🖥️ I'm currently working on 🛠️ <a href="https://github.com/BuStudios/StashConnect">stashconnect</a> and my 🔗 <a href="https://bustudios.org">website</a><br>
 - 🌱 At the moment I’m learning 💻 web development and 🤖 discord bots<br>
 - 😺 I used to share games on scratch: <a href="https://bit.ly/bustudios">bustudios</a><br>
-- ⚡fun fact: I hold the world record for most visits to my own profile. 🏆</p>
+- ⚡fun fact: I refreshed my own profile. 🔃</p>
 
 <div align="left">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=BuStudios.BuStudios&left_text=profile%20views" height="17" />
