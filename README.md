@@ -1,7 +1,6 @@
 <h1 align="left">Hi, Im Bu 👋</h1>
 
 ###
-<h3>A 15 y/o programmer :)</h3>
 <p align="left">- 🛠️ I'm currently working on <a href="https://github.com/BuStudios/StashConnect">stashconnect</a> and my <a href="https://bustudios.org">website</a><br>
 - 😺 I used to share games on scratch: <a href="https://bit.ly/bustudios">bustudios</a><br>
 
