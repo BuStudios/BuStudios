@@ -3,7 +3,7 @@
 ###
 <p align="left">- 🛠️ I'm currently working on <a href="https://github.com/BuStudios/StashConnect">stashconnect</a> and my <a href="https://bustudios.org">website</a><br>
 - 😺 I used to share games on scratch: <a href="https://bit.ly/bustudios">bustudios</a><br>
-- ⚡ 112 day github streak :)
+- ⚡ 113 day github streak :)
 
 <div align="left">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=BuStudios.BuStudios&left_text=profile%20views" height="17" />
@@ -33,8 +33,6 @@
   <img src="https://cdn.simpleicons.org/mongodb/47A248" height="30" alt="mongodb logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/raspberrypi/raspberrypi-original.svg" height="30" alt="raspberrypi logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/visualstudiocode/007ACC" height="30" alt="vscode logo"  />
 
 ###
 
