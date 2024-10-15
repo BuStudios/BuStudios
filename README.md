@@ -1,7 +1,7 @@
 <h1 align="left">Hi, Im Bu :D</h1>
 
 ###
-<p align="left">- 🛠️ I'm currently working on <a href="https://github.com/BuStudios/StashConnect">stashconnect</a> and a unity game <a href="https://bustudios.org">burger master</a><br>
+<p align="left">- 🛠️ I'm currently working on <a href="https://github.com/BuStudios/StashConnect">stashconnect</a> and my unity game <a href="https://burgermaster.bustudios.org/versions">burger master</a><br>
 - 😺 I used to share games on scratch: <a href="https://bit.ly/bustudios">bustudios</a><br>
 
 <div align="left">
